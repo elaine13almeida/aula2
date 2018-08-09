@@ -50,7 +50,7 @@ Pense em um número:
 Ele é maior, menor ou igual a 25?
     maior
 Ele é maior, menor ou igual a 37?
-    ma
+    maior 
 Ele é maior, menor ou igual a 43?
     
 Ele é maior , menor ou igual a 47?
