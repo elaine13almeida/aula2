@@ -1,0 +1,60 @@
+Eu estou pensando em um número.
+Está no intervalo de 1 a 50.
+
+Pense em um número:
+    Nº: 47
+
+Ele é maior, menor ou igual a 25?
+    maior
+Ele é maior, menor ou igual a 37?
+    maior
+Ele é maior, menor ou igual a 43?
+    maior
+Ele é maior , menor ou igual a 47?
+     igual
+
+Está no intervalo de 1 a 50.
+
+Pense em um número:
+    Nº: 18
+
+Ele é maior, menor ou igual a 25?
+    menor
+Ele é maior, menor ou igual a 12?
+    maior
+Ele é maior, menor ou igual a 18?
+    maior
+
+Está no intervalo de 1 a 50.
+
+Pense em um número:
+    Nº: 
+
+Ele é maior, menor ou igual a 25?
+    menor
+Ele é maior, menor ou igual a 12?
+    maior
+Ele é maior, menor ou igual a 18?
+    menor
+Ele é maior , menor ou igual a 15?
+     igual
+
+R:13
+
+Está no intervalo de 1 a 50.
+Responda apenas 
+
+Pense em um número:
+    Nº:
+
+Ele é maior, menor ou igual a 25?
+    maior
+Ele é maior, menor ou igual a 37?
+    ma
+Ele é maior, menor ou igual a 43?
+    
+Ele é maior , menor ou igual a 47?
+     
+
+
+

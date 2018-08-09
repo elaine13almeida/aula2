@@ -25,6 +25,15 @@ header img{
     padding-right: 15px;
 }
 
+h1{
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 15px;
+    text-align: center;
+    color: #064de6; 
+    margin-bottom: 35px;
+}
+
 li{
     list-style: none;
     color: aliceblue;
@@ -37,21 +46,98 @@ li{
     background-color: violet;
     height: 200px;
     width: 200px;
-    display: block;
     margin-left: 20px;
-    
+    display: inline-block;
+    margin: 70px;   
+    border-radius: 5%; 
 }
 
-li:nth-child(2){
-    background-color: #f4c141;
+.exemplo li:nth-child(2){
+    background-color: #b906e6;
     height: 200px;
     width: 200px;
-    
+    border-radius: 5%;
+    }
+
+.exemplo  li:nth-child(3){
+    background-color: violet;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    }
+
+.exemplo li:nth-child(4){
+    background-color: #b906e6;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    }
+
+  .exemplo  li:nth-child(5){
+        background-color: #violet;
+        height: 200px;
+        width: 200px;
+        border-radius: 5%;
+        }
+        .exemplo li:nth-child(6){
+            background-color: greenyellow;
+            height: 200px;
+            width: 200px;
+            margin-left: 20px;
+            display: inline-block;
+            margin: 70px;   
+            border-radius: 5%; 
+            
+        }
+
+.exemplo li:last-child{
+    background-color: violet;
+    height: 200px;
+    width: 200px;
 }
 
-li:last-child{
+.container ul{
+    display: flex;
+    padding: 0;
+    flex-direction: column;
+}
+ 
+.lembrete li{
     background-color: blue;
-    height: 200px;
-    width: 200px;
+    width: 90px;
+    height: 150px;
 }
-
+.lembrete{
+    flex-direction: row;
+    position: fixed;
+   top: 80px;
+   left: 10px;
+}
+#festa{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: 280px;
+    left: 520px;
+}
+#pu{
+    position: fixed;
+   top: 190px;
+   left: 38px;
+   width: 50px;
+   height: 50px;
+}
+#so{
+    position: fixed;
+   top: 350px;
+   left: 38px;
+   width: 50px;
+   height: 50px;
+}
+#macarrao{
+    position: fixed;
+   top: 530px;
+   left: 38px;
+   width: 50px;
+   height: 50px;
+}
