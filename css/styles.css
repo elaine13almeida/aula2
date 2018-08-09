@@ -127,7 +127,7 @@ li{
    width: 50px;
    height: 50px;
 }
-#sos{
+#so{
     position: fixed;
    top: 350px;
    left: 38px;
@@ -139,5 +139,5 @@ li{
    top: 530px;
    left: 38px;
    width: 50px;
-   height: 51px;
+   height: 50px;
 }

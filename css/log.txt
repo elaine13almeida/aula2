@@ -31,7 +31,7 @@ Pense em um número:
     Nº: 
 
 Ele é maior, menor ou igual a 25?
-    menor
+    menor :)
 Ele é maior, menor ou igual a 12?
     maior
 Ele é maior, menor ou igual a 18?
